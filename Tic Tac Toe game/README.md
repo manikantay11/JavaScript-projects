@@ -32,8 +32,8 @@ Tic-Tac-Toe/
 └── README.md       # Documentation
 ```
 
-## Live here
-Click here to experience 
+## Screenshots
+(img1)[Tic Tac Toe game/demo.png]
 
 ## 📜 License
 This project is open-source and available under the MIT License.
