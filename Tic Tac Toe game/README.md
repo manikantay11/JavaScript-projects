@@ -33,7 +33,8 @@ Tic-Tac-Toe/
 ```
 
 ## Screenshots
-(img1)[Tic Tac Toe game/demo.png]
+![img1](https://github.com/manikantay11/JavaScript-projects/blob/29fc85a34c51f573023de2ad71333abfab9c1dce/Tic%20Tac%20Toe%20game/demo.png)
+![img1](https://github.com/manikantay11/JavaScript-projects/blob/29fc85a34c51f573023de2ad71333abfab9c1dce/Tic%20Tac%20Toe%20game/demo1.png)
 
 ## 📜 License
 This project is open-source and available under the MIT License.
