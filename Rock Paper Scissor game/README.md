@@ -46,7 +46,7 @@ rock-paper-scissors/
 
 ## 📷 Screenshots
 
-&#x20;(Replace `#` with image URL)
+![demo](https://github.com/manikantay11/JavaScript-projects/blob/92103b830a4e6c77ea33a999376f354b8d867bf5/Rock%20Paper%20Scissor%20game/demo.png)
 
 ## 📝 Future Enhancements
 
